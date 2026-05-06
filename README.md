@@ -4,6 +4,8 @@
 
 Chatbot que utiliza API da NVIDIA NIM. Mantém histórico de conversas em arquivos JSON na pasta 'conversas'. Permite múltiplas sessões independentes.
 
+https://github.com/user-attachments/assets/ae393b14-6a7c-4e8c-9943-96a9e746855f
+
 ## Requisitos
 
 - Python 3.8+
