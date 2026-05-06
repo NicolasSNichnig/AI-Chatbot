@@ -33,10 +33,10 @@ pip install openai python-dotenv
 
 ## Configuração
 
-Crie um arquivo .env com o conteúdo:
-API_KEY=sua_chave_api_aqui
-BASE_URL=https://integrate.api.nvidia.com/v1
-MODEL=stepfun-ai/step-3.5-flash
+Crie um arquivo .env com o conteúdo:\
+API_KEY=sua_chave_api_aqui\
+BASE_URL=https://integrate.api.nvidia.com/v1\
+MODEL=stepfun-ai/step-3.5-flash\
 
 ## Obter API Key
 
