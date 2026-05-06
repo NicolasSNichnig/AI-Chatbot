@@ -28,7 +28,8 @@ pip install openai python-dotenv
 cd %USERPROFILE%\nvidia_chatbot
 python -m venv venv
 venv\Scripts\activate
-pip install openai python-dotenv```
+pip install openai python-dotenv
+```
 
 ## Configuração
 
