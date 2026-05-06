@@ -19,7 +19,8 @@ mkdir -p ~/nvidia_chatbot
 cd ~/nvidia_chatbot
 python3 -m venv venv
 source venv/bin/activate
-pip install openai python-dotenv```
+pip install openai python-dotenv
+```
 
 ### Windows 
 
@@ -47,4 +48,6 @@ https://build.nvidia.com
 
 ## Executar
 
-python chatbot.py
+Linux: ```./iniciar.sh```
+
+Windows: ```python chatbot.py```
