@@ -35,10 +35,12 @@ pip install openai python-dotenv
 
 ## Configuração
 
-Crie um arquivo .env com o conteúdo:  
+Crie um arquivo .env com o conteúdo:
+```
 API_KEY=sua_chave_api_aqui  
 BASE_URL=https://integrate.api.nvidia.com/v1  
 MODEL=Seu_ModeloIA  
+```
 
 ## Obter API Key
 
@@ -50,6 +52,7 @@ https://build.nvidia.com/explore/discover
 - .env (configurações)
 
 ## Executar
+Necessário estar na pasta criada para o chatbot
 
 Linux: ```./iniciar.sh```  
 Windows: ```python chatbot.py```  
